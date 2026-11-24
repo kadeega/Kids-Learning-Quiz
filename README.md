@@ -11,7 +11,6 @@ Each category includes a set of questions accompanied by images to make the lear
 - Three quiz categories: Colors, Fruits, and Animals.
 - Image-based multiple-choice questions.
 - Automatic answer checking and score calculation.
-- Results display.
 - Saving user scores in files.
 
 **Technologies:** Java, Java Swing, Object-Oriented Programming (OOP), File Handling.

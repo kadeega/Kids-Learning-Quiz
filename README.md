@@ -2,7 +2,7 @@
 
 ### Interactive Educational Quiz – Java
 
-An interactive educational quiz application developed using Java. The application allows users to enter their name and age, then choose a quiz category: Colors, Fruits, or Animals.
+A group project developed using Java as part of a university course. The application allows users to enter their name and age, then choose a quiz category: Colors, Fruits, or Animals.
 
 Each category includes a set of questions accompanied by images to make the learning experience more engaging and interactive. Users select their answers, receive their final scores, and their results are saved in files for record keeping.
 
